@@ -1,0 +1,2 @@
+serviceClass: lt.kutkaitis.pamokutvarkarastis.client.TeachersSheetReadingService
+path: 8E94D78E2B7590F9C1B061B56DD4CDEC.gwt.rpc

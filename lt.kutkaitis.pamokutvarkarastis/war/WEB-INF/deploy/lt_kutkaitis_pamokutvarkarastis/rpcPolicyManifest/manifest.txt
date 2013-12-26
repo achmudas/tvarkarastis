@@ -1,0 +1,2 @@
+# Module lt_kutkaitis_pamokutvarkarastis
+# RPC service class, partial path of RPC policy file

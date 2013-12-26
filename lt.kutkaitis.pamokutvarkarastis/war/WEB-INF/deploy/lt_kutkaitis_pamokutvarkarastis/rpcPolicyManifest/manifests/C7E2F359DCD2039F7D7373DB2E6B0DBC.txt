@@ -1,0 +1,2 @@
+serviceClass: lt.kutkaitis.pamokutvarkarastis.client.ExcelReaderService
+path: 7E39E04D302C79463D6DA29B0B02CB55.gwt.rpc

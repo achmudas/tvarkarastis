@@ -245,6 +245,7 @@ a, a:visited, a:hover {
 }
 
 .gwt-Hyperlink {
+  cursor: pointer;
 }
 
 .gwt-Image {
@@ -917,8 +918,6 @@ a, a:visited, a:hover {
 
 .gwt-TextBox {
   padding: 2px;
-  font-size:12px;
-  font-weight:normal;
 }
 .gwt-TextBox-readonly {
   color: #888;
